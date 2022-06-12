@@ -6,7 +6,10 @@ description: > # this means to ignore newlines until "baseurl:"
   
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "renasung.github.io" # the base hostname & protocol for your site
+
 github_username:  renasung
+twitter_username: sung315
+linkedin_username: renasung
 
 permalink: /blog/:year/:month/:title.html
 gems:
