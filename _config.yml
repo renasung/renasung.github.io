@@ -1,12 +1,12 @@
 # Site settings
-title: Luwei Ying
-email: ying@ss.ucla.edu
+title: Rena Sung
+email: res176@pitt.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Incoming Assistant Professor, UCLA
+  Ph.D. Candidate, Graduate School of Public and International Affairs, University of Pittsburgh
   
 # baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "Luwei-Ying.github.io" # the base hostname & protocol for your site
-github_username:  Luwei-Ying
+url: "renasung.github.io" # the base hostname & protocol for your site
+github_username:  renasung
 
 permalink: /blog/:year/:month/:title.html
 gems:
