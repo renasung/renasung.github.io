@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img align="right" src="files/portrait2.jpg" hspace="20"  width="261" height="348" >
+<img align="left" src="files/rena.jpg" hspace="20"  width="261" height="348" >
 
 <p>Welcome! I am a PhD candidate at the Graduate School of Public and International Affairs, University of Pittsburgh, specializing in international affairs and public policy.</p>  
   
