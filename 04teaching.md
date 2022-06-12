@@ -6,27 +6,11 @@ permalink: "/teaching/"
 
 ## Teaching Experience
 
-* Teaching Assistant, Washington University in St. Louis
+* Graduate School of Public and International Affairs
 
-	* Quantitative Political Methodology I (Guillermo Rosas), Spring 2020, Graduate Level
+	* Instructor of record,  PIA 2022 Quantitative Methods, Fall 2022
 
-	* Math Camp (Jacob M. Montgomery), Summer 2019/2020, Graduate Level
+	* Teaching assistant,  PIA 2022 Quantitative Methods, Spring 2022
 
-	* Quantitative Political Methodology (Christopher Lucas), Fall 2019, Undergraduate Level
+	* Teaching assistant,  PIA 2022 Quantitative Methods, Fall 2021
 
-	* International Political Economy (Michael Gavin), Spring 2019, Undergraduate Level
-
-	* Conflict and Security in International Relations (David B. Carter), Fall 2018, Undergraduate Level
-
-	* Game Theory (Justin Fox), Spring 2018, Undergraduate Level
-	
-	* Ethnic Conflict (Deniz Aksoy), Fall 2017, Undergraduate Level
-
-	* Political Violence (Deniz Aksoy), Fall 2017, Graduate Level
-
-
-## Evidence of Teaching Effectiveness
-
-<a href="/files/teaching_effectiveness.pdf">Teaching Evaluations</a>
-
-<a href="/files/sample_syllabus.pdf">Sample Syllabus</a>
