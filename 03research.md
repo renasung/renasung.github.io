@@ -5,7 +5,9 @@ permalink: "/research/"
 ---
 
 ## Publications
-* Sung, Rena, and Jonghyuk Park. forthcoming. <a href="https://drive.google.com/file/d/1xaIBygY0X0eeaTMZMtCQEM_WZAQ0TU0I/view?usp=sharing">How Do Economic Sanctions Affect Public Opinion and Consumer Behavior in Target States?: Evidence from China’s economic sanctions on South Korea.</a> <i>International Studies Quarterly</i>
+* Sung, Rena, and Jonghyuk Park. 2022. <a href="https://academic.oup.com/isq/article/66/3/sqac023/6609459"> How Do Economic Sanctions Affect Public Opinion and Consumer Behavior in Target States?: Evidence from China’s economic sanctions on South Korea.</a> <i>International Studies Quarterly</i>
+
+Appendix <a href="https://www.dropbox.com/s/ynuzz7vnji1nu11/isq_revision3%20%286%29.pdf?raw=1 ">
 <details><summary>Abstract</summary>
 <p>
  Previous research shows that economic sanctions affect three facets of public opinion in target states: support for the policy at issue, support for the target government, and hostility toward the sanctioner. We explore the dynamics between the facets of opinion and link them to consumer behavior. How do supportive opinions of the policy and the target government lead to hostility? How does this hostility affect consumers’ propensity to buy the sanctioner’s branded products? We examine a case in which China imposed economic sanctions on South Korea in opposition to South Korea’s decision to deploy Terminal High Altitude Area Defense (THAAD). We collect comments from relevant newspaper articles and conduct attitude analysis using machine learning. We conduct difference-in-differences analyses using barcode-level data regarding monthly beer sales, for which we argue boycotts are more likely to occur. We find that a backlash effect in public opinion occurred with respect to two facets of opinion. However, despite the public antagonism, we observe no significant backlash in consumer behavior. These findings imply that effects of economic sanctions in target states are multidimensional and thus it is too simplistic to assess the effectiveness of economic sanctions only by looking at public opinion in target states.    
