@@ -10,7 +10,7 @@ layout: default
 
 <p>In another line of research, I study the effects of economic sanctions in target states. Specifically, I aim to answer the following questions: (1) How do economic sanctions affect public opinion and consumer behavior in target states? (2) Under what conditions does backlash in public opinion lead to backlash in consumer behavior in target states?</p>
 
-<p>My research is published or forthcoming in <i>International Studies Quarterly</i>, <i>Proceedings of International Conferences of Computational Science Americas</i>, and <i>Review of International Political Economy</i>.</p>  
+<p>My research is published in <i>International Studies Quarterly</i>, <i>Proceedings of International Conferences of Computational Science Americas</i>, and <i>Review of International Political Economy</i>.</p>  
 
 <p>I hold a B.A. in International Relations and Economics from Brown University and a MA in International Affairs at the School of International and Public Affairs, Columbia University and a MA in Political Science at Texas A&M University. Prior to graduate school, I worked as a business consultant at IBM, South Korea. For more information about my research and teaching, please feel free to contact me at res176@pitt.edu.</p>  
 
