@@ -40,14 +40,27 @@ Recent debates about the 1\% vs. 99\%, CEO compensation, minimum wage, and incom
 
 ## Working Papers
 
-* Reshaping Attitudes toward High-Skilled Immigration with information about labor market competition and international rivalry 
+* <a href="/files/The_Political_Economy_of_High_Skilled_Immigration_v3.pdf">The Political Economy of High-Skilled Immigration: Sponsorship and votes on High-Skilled Immigration Bills in the U.S. Congress</a>
 <details><summary>Abstract</summary>
 <p>
-
+High-skilled immigrants and foreign nationals are an essential component of a country’s economic competitiveness, particularly in the Science, Technology, Engineering,
+and Mathematics fields. Yet only a small number of foreign nationals are allowed to work in the United States. This paper examines (1) how high-skilled immigration bills
+in the U.S. have evolved over time and (2) what factors determine high-skilled immigration policy. I relax the fixed-demand assumption of previous research and develop
+a new theory of the dynamic demand for high-skilled immigration in which a greater supply of skilled labor generates greater demand for skilled labor, possibly creating
+a virtuous cycle. I focus on liberalizing bills which I categorize into expanding and zero-sum. Expanding bills aim to increase the number of high-skilled immigrants,
+while zero-sum bills are designed to increase high-skilled immigration at the expense of other types of immigration. To empirically test my theory, I constructed a new
+legislator-bill level dataset based on high-skilled immigration bills in the House of Representatives, H-1B visa applications, and lobbying reports from 2003 to 2019. I
+find that high-skilled immigration bills have become more zero-sum in nature over time. Consistent with the dynamic demand theory, I find that demand is a significant
+factor affecting representative support for high-skilled immigration and that the effect of demand differs by bill type and partisanship. Democrats favor expanding bills,
+while Republicans favor zero-sum bills. I also find that Democrats are more sensitive to the demand for skilled foreign workers in their districts and react more favorably
+to expanding high-skilled immigration bills. This finding challenges the conventional wisdom that Republicans are more supportive of all types of high-skilled immigration
+policy due to their business-friendly nature. By considering the multifaceted nature of immigration bills as opposed to the binary liberalizing/restrictive classification used
+in past research, this paper unveils hidden dynamics between the labor market factor (demand) and the political factor in immigration policymaking.
 </p>
 </details><br />
 
-* What determines U.S. High-Skilled Immigration?: Evidence from Sponsoring and Voting Behavior in Congress
+
+* Reshaping Attitudes toward High-Skilled Immigration with information about labor market competition and international rivalry 
 <details><summary>Abstract</summary>
 <p>
 
