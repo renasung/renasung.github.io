@@ -40,7 +40,7 @@ Recent debates about the 1\% vs. 99\%, CEO compensation, minimum wage, and incom
 
 ## Working Papers
 
-* <a href="/files/The_Political_Economy_of_High_Skilled_Immigration_v3.pdf">The Political Economy of High-Skilled Immigration: Sponsorship and votes on High-Skilled Immigration Bills in the U.S. Congress</a>
+* <a href="/files/The_Political_Economy_of_High_Skilled_Immigration_Rena Sung.pdf">The Political Economy of High-Skilled Immigration: Sponsorship and votes on High-Skilled Immigration Bills in the U.S. Congress</a>
 <details><summary>Abstract</summary>
 <p>
 High-skilled immigrants and foreign nationals are an essential component of a country’s economic competitiveness, particularly in the Science, Technology, Engineering,
