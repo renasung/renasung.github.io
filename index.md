@@ -12,5 +12,5 @@ layout: default
 
 <p>My research is published in <i>International Studies Quarterly</i>, <i>Proceedings of International Conferences of Computational Science Americas</i>, and <i>Review of International Political Economy</i>.</p>  
 
-<p>I hold a B.A. in International Relations and Economics from Brown University and a MA in International Affairs at the School of International and Public Affairs, Columbia University and a MA in Political Science at Texas A&M University. Prior to graduate school, I worked as a business consultant at IBM, South Korea. For more information about my research and teaching, please feel free to contact me at res176@pitt.edu.</p>  
+<p>I received my PhD in International Affairs and Public Policy from the Graduate School of Public and International Affairs, the University of Pittsburgh. I hold a B.A. in International Relations and Economics from Brown University and a MA in International Affairs at the School of International and Public Affairs, Columbia University and a MA in Political Science at Texas A&M University. Prior to graduate school, I worked as a business consultant at IBM, South Korea. For more information about my research and teaching, please feel free to contact me at res176@pitt.edu.</p>  
 
