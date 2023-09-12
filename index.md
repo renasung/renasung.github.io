@@ -4,7 +4,7 @@ layout: default
 
 <img align="left" src="files/rena_2.jpg" hspace="20"  width="200" height="300" >
 
-<p>Welcome! I am a PhD candidate at the Graduate School of Public and International Affairs, the University of Pittsburgh, specializing in international affairs and public policy.</p>  
+<p>Welcome! I am an Assistant Professor at the School of International Studies, Kyung Hee University, specializing in international political economy and public policy.</p>  
   
 <p>My dissertation focuses on high-skilled immigration. The main questions motivating my dissertation project are: (1) How does information affect the attitudes of native-born citizens toward high-skilled immigration? (2) What determines high-skilled immigration policy in the U.S. Congress? (3) Do technology companies prefer foreign nationals over native citizens? (What are the  microfoundations governing the hiring decisions in respect to native citizens and foreign nationals?)</p> 
 
